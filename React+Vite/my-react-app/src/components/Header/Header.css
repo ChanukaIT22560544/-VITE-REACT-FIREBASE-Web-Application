@@ -1,0 +1,43 @@
+/* src/components/Header.css */
+.header {
+    background-color: #1b8611;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 98%;
+  }
+ 
+ 
+.b{
+    background-color: #378be42d;
+    margin: 10px;
+    align-self:flex-end;
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+}  
+
+.b:hover{
+   background-color: #9ee7b6;
+}
+
+.B{
+    margin-left: 900px;
+    margin-right: 10px;
+    background-color: #378be42d;
+   
+    align-self:flex-end;
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+}
+
+.B:hover{
+    background-color: #9ee7b6;
+ }
+ 
+ j{
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(43, 240, 76);
+    font-feature-settings: "abvs";
+ }
