@@ -51,7 +51,7 @@ const ImageBackgroundRemover = () => {
     fetch('https://api.remove.bg/v1.0/removebg', {
       method: 'POST',
       headers: {
-        'X-Api-Key': 'Q6j7mKZE8NAvHTRE3CMSH4Md'
+        'X-Api-Key': 'Add-your api key'//add your api key
       },
       body: formData
     })
