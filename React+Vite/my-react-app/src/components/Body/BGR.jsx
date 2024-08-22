@@ -48,7 +48,7 @@ const ImageBackgroundRemover = () => {
     formData.append('size', 'regular');
     formData.append('type', 'auto');
 
-    fetch('https://api.remove.bg/v1.0/removebg', {
+    fetch('Add api service url', {//add api service url
       method: 'POST',
       headers: {
         'X-Api-Key': 'Add-your api key'//add your api key
